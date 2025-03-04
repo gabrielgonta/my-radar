@@ -38,7 +38,7 @@ Tower positions
 
 Plane departure points, speeds, and delays
 
-Example script files can be found in assets/scripts/. You can also generate your own using ./```script_generator.py```.
+Example script files can be found in assets/scripts/. You can also generate your own using ```./script_generator.py```.
 
 ## Installation & Setup
 
