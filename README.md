@@ -16,7 +16,7 @@ Optimized Performance 🚀 – Implements quadtree spatial partitioning to reduc
 
 Customizable Scripts 📜 – Define plane paths, speeds, and delays.
 
-Enhanced Features in Bonus Version 🏆:
+Enhanced Features in this Version 🏆:
 
         Start menu
 
